@@ -51,7 +51,7 @@
                         <p style="font-family:Alegreya; text-align:left;" >As nossas padarias oferecem mais de 30 variedades de pão fresco de qualidade, pastelaria variada, bolos, biscoitos caseiros, e deliciosas goluseimas.</p>
                     </div>
                     <div class="pageDiv"><asp:Image runat="server" ImageUrl="~/Imagens/bread3.jpg" />
-                        <h3 style="font-family:Anton; text-align:left;">A carne com mais qualidade em Fernão-Ferro!</h3>
+                        <h3 style="font-family:Anton; text-align:left;">O pão com mais qualidade em Fernão-Ferro!</h3>
                         <p style="font-family:Alegreya; text-align:left;" >De sementes, claro, escuro, integral ou biológico, nacional ou francês: há muita variedade para diferentes taras e manias. Depois de nos cansarmos do facilitismo de comprar tudo nas grandes superfícies, volta o gostinho pela “ida ao pão”, numa padaria, ali ao virar da esquina, quente e acolhedora, onde já sabem o que os clientes querem.</p>
                     </div>
                 </div>
